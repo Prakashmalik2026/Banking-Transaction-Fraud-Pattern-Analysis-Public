@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Key Findings
 - Fraud peaks between 00:00–04:00
-- High-value transactions (>€500) show elevated fraud rates
+- High-value transactions (>₹55500) show elevated fraud rates
 - Fraud represents ~0.17% of volume but disproportionate financial loss
 - Combined amount + time rule significantly improves detection targeting
 
